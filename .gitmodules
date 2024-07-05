@@ -1,0 +1,6 @@
+[submodule "uw3_fe"]
+	path = uw3_fe
+	url = https://github.com/AnTTViiii/uw3_fe.api.git
+[submodule "uw3_api"]
+	path = uw3_api
+	url = https://github.com/AnTTViiii/uw3_api.git
